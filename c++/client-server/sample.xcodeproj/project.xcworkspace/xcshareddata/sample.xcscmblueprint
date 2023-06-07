@@ -1,0 +1,828 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8871A6279EEA02ABBADC1D46664C8665045B8B94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "86AD07E31958775295527B7116C4152BF846D7C0" : 0,
+    "029EF8DF15E09B0618C4494D981C9FB4247EA21C" : 0,
+    "FB8318436B8B80894D21974D617B89CEF638F136" : 0,
+    "5C34606C9894D2619F891F9C35436BA91E2735AD" : 0,
+    "681FF75D1391A3880A809E153021A373A69C3054" : 0,
+    "F2D2C3179600F8E8AC538599A820B63DC96047FD" : 0,
+    "CFA51411730CAE7D567070C8C60EB90AB96031AB" : 0,
+    "4A2FEE8C7E79011772D086790D7AEF8FF07F7CD9" : 0,
+    "0847F532C040666377BA5AE6A5C24F21436E1BFB" : 0,
+    "EDECC636117A7FEF6625B6B427175D5919D6E052" : 0,
+    "C9F9A7EAD0E0239D958B77C6F92419F9A3B941C5" : 0,
+    "00C2692BCC962BB8F671576FF3C5C4ECBAE1E8CB" : 0,
+    "470F1FAA929827A56E1A0A600CFB43D797C02023" : 0,
+    "3B614CCC5D582F81785A2BA60334E42CBBC01BD1" : 0,
+    "AD253D9FA8339C77AD67CC2FC3D4EB1CDA68C048" : 0,
+    "2800DD802669CBE78548CCE0B95F1BEB861768EA" : 0,
+    "1D4EDB91186A053FF9F321BF7D75D54C2A9947FF" : 0,
+    "8871A6279EEA02ABBADC1D46664C8665045B8B94" : 0,
+    "EA3C9C8AD7707E808C13C99C1075BB94FE8822A3" : 0,
+    "5AB805364E48A17F7C165520E37307D24D5D8A4C" : 0,
+    "C2EC63EDB01C9416EB48B09CC1B11510F462D155" : 0,
+    "3F183742465A11DEF92385AD01C28C29538B455B" : 0,
+    "13D510AF0C9ACBACCE87B855AB22BA4D5209E211" : 0,
+    "C9AC9F247758C0C948915254736AD19E7439AB5E" : 0,
+    "70EF06D3A91F12143111C86032BEC464D093FD54" : 0,
+    "F93C1D486927773F07F47C1BFC589A8D01BDCC73" : 0,
+    "30BB9BC394920DA3CAE553AD733DBAE6EC76E5C8" : 0,
+    "ED4463EB630865F9FE9EE5254DECD50CEA90A0AE" : 0,
+    "196B46CF83E2FB818BF3DD9DDDCDE64F8695435A" : 0,
+    "372E9ECA08929B4E0B07896D37AA7E2C0E400E6F" : 0,
+    "A692338916921B70DCE7D296F021A1432FAB6DE5" : 0,
+    "4D1AC43D5267535BB1BA83172247D547673723BB" : 0,
+    "5CD3B571831A9F1F18AD27E5481761FAA31F73B3" : 0,
+    "7FF35C9C36613F38B5DFAA15070981D25B2488DC" : 0,
+    "4F7B3776C2022A76E6C3ECB7645173444D6E9726" : 0,
+    "65E3105F34BB65ACAE41A2134E6205775C141D4A" : 0,
+    "AA61DE52AE9B003B707E31F8786CE387782270CA" : 0,
+    "B5992855218E8CE3E5C519E82C5A3BB6837DE72E" : 0,
+    "9CE3A993CF5FF665CD9CD4679B13B70585ED7F41" : 0,
+    "58592A48594D2C75E5275FC39E2A0FDCCF10DC8C" : 0,
+    "A33692CC70C022105B47E8CE1A227957EB6D0A1F" : 0,
+    "99B3334B9CB9C7DE2F35F3CF33A34FE15A216C61" : 0,
+    "AABAB4295EF7211EE16067F93030762E612D4CA2" : 0,
+    "292E8266ACD752EB42919AC14FB29B2BF14E7BFA" : 0,
+    "A0FA43D55A5CBC62B8AC562BDFC607BF9E268AF3" : 0,
+    "5C997F2451038944AAE6B1944D29B18E979B5EC1" : 0,
+    "51B19613B226D090DB5FD3BE8A13FDFA6AC0EC7E" : 0,
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : 0,
+    "8F02240BDECC5106B2B80CEC4DB1B29D1BA96413" : 0,
+    "BA9D9A67A8F3F74A2E3C0315EB9137099E35F2F5" : 0,
+    "AB7DB1BDF2C977D7DAD7DCFEFAF8BECFDD2E29AF" : 0,
+    "25EA1765C03813F3E50847AB46EC39CD98B99D65" : 0,
+    "E78FD7D31D3D21F66C05778FD9B8D414BB305C2F" : 0,
+    "66E936BE76803FB416A73B030817439CBA874451" : 0,
+    "9F967090EBAD6D00ABA7FA40537E236B351BC50E" : 0,
+    "E3CF6ABE4F8C98076D21708E3C903B55D2521936" : 0,
+    "3234625D907476C438AA9422C4562F8828052B7C" : 0,
+    "643EEC0821FB80D2CC4413B49494C31BFA54246B" : 0,
+    "07C573BDCAD103C266A63A5B1A0F49499D98E5B9" : 0,
+    "F61C8334FCA97314A8AA25185947555656A5C934" : 0,
+    "C9EA4176E658EE242E577638A903D46467C0511E" : 0,
+    "7EEBD969BC7143D44CB5EA9B15DDA5AB4DCB79D0" : 0,
+    "09D5415EA814A7D782C6B2C4BF90D19FE02E0537" : 0,
+    "181D076B268BFFE3E3BC9D72CB7C09E22A518BBC" : 0,
+    "3FB159986523EEFEB32F035598D407F8A82D47E2" : 0,
+    "834BC5F6E115E53C75241EDBEC0D917DDBBB77E5" : 0,
+    "186E2971F8A8E83D27F3FA39ED941858F7613EA3" : 0,
+    "09EE96136A868C121573A1C37B05E9FE4FC63522" : 0,
+    "C41AF6F6590316A5053D6E6202D73AC435094329" : 0,
+    "5853DC01DF7C813BBB10C04DBF62CCD912BDC327" : 0,
+    "3945A6B0E41B58889D935CF183AB0B5A9C1DECFF" : 0,
+    "8B8E72E4FC624FB1092C5BE9DFDDE9D7C7E7E2A3" : 0,
+    "277D8A1A64D874AA7442569B172AE0CB0AA91F7D" : 0,
+    "701821BC944CDBCC2CE2BBC316BF364EB91261A6" : 0,
+    "73CD312B38248A9CF3121FBA8D3D5AB9E76180E9" : 0,
+    "606B77969CB8A3E74F666112ED6AAE8432EF2D67" : 0,
+    "AB66EE092F328E45AF58911E332331EAADB95D28" : 0,
+    "2A9F1D4D2A714E315C95A201801AB79C9776BE6A" : 0,
+    "AA4E32475131DC49C44B19D334F62E57BBA83A0D" : 0,
+    "D430CFED4ACDE08C55B068579FC69C3628A27167" : 0,
+    "DE2C63CDC0F6AE1DFE5AF9844933CC34E392A95A" : 0,
+    "41780AB478B5CE5DA4D966EBD68C17897602590F" : 0,
+    "03FB0BC5908FB3268AF2A82E66F699004DC5419B" : 0,
+    "821A489FEDC0E8D3826C4106E5EF2533A8514002" : 0,
+    "D0AF71776A4E01E34EED149EBC8437068C1D8C5B" : 0,
+    "EF4C4565A100C89E3429E93FB3F7EB9D6223088B" : 0,
+    "B4173435B41C0E21DE3F5A9BC593CA6A898D8FC3" : 0,
+    "6A417B91D5DE199C7BF69BD657483370A1CE762D" : 0,
+    "F225D54C234BB26F7EB1355D4CF26DBBCD0DE769" : 0,
+    "6E4D4EEC52A4A84E1F22763EA68618B602002AA7" : 0,
+    "6B1D69DCE1AA7F35E8E772AC558852BCAFAB8C12" : 0,
+    "EAB7E8849933D52CE83A814C3280551298877934" : 0,
+    "5E3B914F37173C617A81AD32738CFE01D8ACD004" : 0,
+    "0FBF8433F2041A1C676BD7B4F9C745B988F28D39" : 0,
+    "5F67A7A192FEAF8FCF1300DCC08F5F8E755A4805" : 0,
+    "1A81E7ECB7CB30064A65455F30E3BE17EB76B1C6" : 0,
+    "A11A7FB5F6897A7A10CADF81D597DF1A4AF952B9" : 0,
+    "F0DA57FC769388E0E70159D7939575F2880E4EE0" : 0,
+    "B818F774B8405CD69A32CC90F815717C23612D0C" : 0,
+    "241379C19943DB413282CFF49E8FC9820B8FBF5F" : 0,
+    "C3ED854564D96FE26F629AB47642C960C1E1F8C0" : 0,
+    "7526B97E805297D8FA76D1B4A978BCFCF184A09C" : 0,
+    "1F1C903C00FEEC265E4B32B61585C30C8D8F0A6B" : 0,
+    "745DCF46B77955D3E004325F1B6FF689D24CA7E3" : 0,
+    "8AA5920AE2396737A458ECB14A4A1F310A7F378F" : 0,
+    "51C10229C3A3DCFB567EAD8EF0AD854D9C37CEB2" : 0,
+    "039D73D997BDFEE385F90913AF51241B29C179E0" : 0,
+    "32445AD4301685A4408C38B3F2C2057694F3CB32" : 0,
+    "B9A02D1C9B3239B1B2E68DE4C473DB142E5E4DF3" : 0,
+    "D48B96A7B497429EB299BD54974048EDCE487556" : 0,
+    "F39830CD5E0EA7EF922AF559C79C75F0484D8415" : 0,
+    "8D40E74C65D7CCA407456A5B841E2FDF8957CE28" : 0,
+    "AF28E92F4C51A04BD0FEC78511B5809C5AF3CA99" : 0,
+    "5EB093D563FD2F54CE649F1CCC2821E6F200D103" : 0,
+    "B9F046F0BD9E9D264B496BA02A9944485963E7AB" : 0,
+    "53E7937C4A3AFC3BC8DDF1F7A9872BAB638B3537" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B38E2A4D-E953-4214-A41B-8D53A55F7F18",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "86AD07E31958775295527B7116C4152BF846D7C0" : "cpp-sample\/thirdparty\/boost\/libs\/tokenizer\/",
+    "029EF8DF15E09B0618C4494D981C9FB4247EA21C" : "cpp-sample\/thirdparty\/boost\/tools\/build\/",
+    "FB8318436B8B80894D21974D617B89CEF638F136" : "cpp-sample\/thirdparty\/boost\/libs\/rational\/",
+    "5C34606C9894D2619F891F9C35436BA91E2735AD" : "cpp-sample\/thirdparty\/boost\/libs\/compatibility\/",
+    "681FF75D1391A3880A809E153021A373A69C3054" : "cpp-sample\/thirdparty\/boost\/libs\/graph\/",
+    "F2D2C3179600F8E8AC538599A820B63DC96047FD" : "cpp-sample\/thirdparty\/boost\/libs\/wave\/",
+    "CFA51411730CAE7D567070C8C60EB90AB96031AB" : "cpp-sample\/thirdparty\/boost\/libs\/range\/",
+    "4A2FEE8C7E79011772D086790D7AEF8FF07F7CD9" : "cpp-sample\/thirdparty\/boost\/libs\/utility\/",
+    "0847F532C040666377BA5AE6A5C24F21436E1BFB" : "cpp-sample\/thirdparty\/boost\/tools\/bcp\/",
+    "EDECC636117A7FEF6625B6B427175D5919D6E052" : "cpp-sample\/thirdparty\/boost\/libs\/lockfree\/",
+    "C9F9A7EAD0E0239D958B77C6F92419F9A3B941C5" : "cpp-sample\/thirdparty\/boost\/libs\/dll\/",
+    "00C2692BCC962BB8F671576FF3C5C4ECBAE1E8CB" : "cpp-sample\/thirdparty\/boost\/libs\/static_assert\/",
+    "470F1FAA929827A56E1A0A600CFB43D797C02023" : "cpp-sample\/thirdparty\/boost\/libs\/preprocessor\/",
+    "3B614CCC5D582F81785A2BA60334E42CBBC01BD1" : "cpp-sample\/thirdparty\/boost\/libs\/asio\/",
+    "AD253D9FA8339C77AD67CC2FC3D4EB1CDA68C048" : "cpp-sample\/thirdparty\/boost\/libs\/atomic\/",
+    "2800DD802669CBE78548CCE0B95F1BEB861768EA" : "cpp-sample\/thirdparty\/boost\/libs\/circular_buffer\/",
+    "1D4EDB91186A053FF9F321BF7D75D54C2A9947FF" : "cpp-sample\/thirdparty\/boost\/libs\/filesystem\/",
+    "8871A6279EEA02ABBADC1D46664C8665045B8B94" : "cpp-sample\/",
+    "EA3C9C8AD7707E808C13C99C1075BB94FE8822A3" : "cpp-sample\/thirdparty\/boost\/",
+    "5AB805364E48A17F7C165520E37307D24D5D8A4C" : "cpp-sample\/thirdparty\/boost\/libs\/foreach\/",
+    "C2EC63EDB01C9416EB48B09CC1B11510F462D155" : "cpp-sample\/thirdparty\/boost\/libs\/intrusive\/",
+    "3F183742465A11DEF92385AD01C28C29538B455B" : "cpp-sample\/thirdparty\/boost\/libs\/format\/",
+    "13D510AF0C9ACBACCE87B855AB22BA4D5209E211" : "cpp-sample\/thirdparty\/boost\/libs\/detail\/",
+    "C9AC9F247758C0C948915254736AD19E7439AB5E" : "cpp-sample\/thirdparty\/boost\/libs\/geometry\/",
+    "70EF06D3A91F12143111C86032BEC464D093FD54" : "cpp-sample\/thirdparty\/boost\/libs\/optional\/",
+    "F93C1D486927773F07F47C1BFC589A8D01BDCC73" : "cpp-sample\/thirdparty\/boost\/libs\/concept_check\/",
+    "30BB9BC394920DA3CAE553AD733DBAE6EC76E5C8" : "cpp-sample\/thirdparty\/boost\/libs\/core\/",
+    "ED4463EB630865F9FE9EE5254DECD50CEA90A0AE" : "cpp-sample\/thirdparty\/boost\/libs\/assign\/",
+    "196B46CF83E2FB818BF3DD9DDDCDE64F8695435A" : "cpp-sample\/thirdparty\/boost\/libs\/conversion\/",
+    "372E9ECA08929B4E0B07896D37AA7E2C0E400E6F" : "cpp-sample\/thirdparty\/boost\/libs\/crc\/",
+    "A692338916921B70DCE7D296F021A1432FAB6DE5" : "cpp-sample\/thirdparty\/boost\/libs\/iostreams\/",
+    "4D1AC43D5267535BB1BA83172247D547673723BB" : "cpp-sample\/thirdparty\/boost\/libs\/regex\/",
+    "5CD3B571831A9F1F18AD27E5481761FAA31F73B3" : "cpp-sample\/thirdparty\/boost\/libs\/system\/",
+    "7FF35C9C36613F38B5DFAA15070981D25B2488DC" : "cpp-sample\/thirdparty\/boost\/libs\/context\/",
+    "4F7B3776C2022A76E6C3ECB7645173444D6E9726" : "cpp-sample\/thirdparty\/boost\/libs\/metaparse\/",
+    "65E3105F34BB65ACAE41A2134E6205775C141D4A" : "cpp-sample\/thirdparty\/boost\/libs\/python\/",
+    "AA61DE52AE9B003B707E31F8786CE387782270CA" : "cpp-sample\/thirdparty\/boost\/libs\/smart_ptr\/",
+    "B5992855218E8CE3E5C519E82C5A3BB6837DE72E" : "cpp-sample\/thirdparty\/boost\/libs\/fiber\/",
+    "9CE3A993CF5FF665CD9CD4679B13B70585ED7F41" : "cpp-sample\/thirdparty\/boost\/libs\/multi_index\/",
+    "58592A48594D2C75E5275FC39E2A0FDCCF10DC8C" : "cpp-sample\/thirdparty\/boost\/libs\/compute\/",
+    "A33692CC70C022105B47E8CE1A227957EB6D0A1F" : "cpp-sample\/thirdparty\/boost\/libs\/statechart\/",
+    "99B3334B9CB9C7DE2F35F3CF33A34FE15A216C61" : "cpp-sample\/thirdparty\/boost\/libs\/typeof\/",
+    "AABAB4295EF7211EE16067F93030762E612D4CA2" : "cpp-sample\/thirdparty\/boost\/libs\/fusion\/",
+    "292E8266ACD752EB42919AC14FB29B2BF14E7BFA" : "cpp-sample\/thirdparty\/boost\/libs\/winapi\/",
+    "A0FA43D55A5CBC62B8AC562BDFC607BF9E268AF3" : "cpp-sample\/thirdparty\/boost\/tools\/boostdep\/",
+    "5C997F2451038944AAE6B1944D29B18E979B5EC1" : "cpp-sample\/thirdparty\/boost\/libs\/xpressive\/",
+    "51B19613B226D090DB5FD3BE8A13FDFA6AC0EC7E" : "cpp-sample\/thirdparty\/boost\/libs\/numeric\/conversion\/",
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : "cpp-sample\/thirdparty\/googletest\/",
+    "8F02240BDECC5106B2B80CEC4DB1B29D1BA96413" : "cpp-sample\/thirdparty\/math\/",
+    "BA9D9A67A8F3F74A2E3C0315EB9137099E35F2F5" : "cpp-sample\/thirdparty\/boost\/libs\/multi_array\/",
+    "AB7DB1BDF2C977D7DAD7DCFEFAF8BECFDD2E29AF" : "cpp-sample\/thirdparty\/boost\/libs\/timer\/",
+    "25EA1765C03813F3E50847AB46EC39CD98B99D65" : "cpp-sample\/thirdparty\/boost\/libs\/lambda\/",
+    "E78FD7D31D3D21F66C05778FD9B8D414BB305C2F" : "cpp-sample\/thirdparty\/boost\/libs\/align\/",
+    "66E936BE76803FB416A73B030817439CBA874451" : "cpp-sample\/thirdparty\/boost\/libs\/qvm\/",
+    "9F967090EBAD6D00ABA7FA40537E236B351BC50E" : "cpp-sample\/thirdparty\/boost\/tools\/inspect\/",
+    "E3CF6ABE4F8C98076D21708E3C903B55D2521936" : "cpp-sample\/thirdparty\/boost\/libs\/property_map\/",
+    "3234625D907476C438AA9422C4562F8828052B7C" : "cpp-sample\/thirdparty\/boost\/libs\/any\/",
+    "643EEC0821FB80D2CC4413B49494C31BFA54246B" : "cpp-sample\/thirdparty\/boost\/libs\/function\/",
+    "07C573BDCAD103C266A63A5B1A0F49499D98E5B9" : "cpp-sample\/thirdparty\/boost\/libs\/predef\/",
+    "F61C8334FCA97314A8AA25185947555656A5C934" : "cpp-sample\/thirdparty\/boost\/libs\/thread\/",
+    "C9EA4176E658EE242E577638A903D46467C0511E" : "cpp-sample\/thirdparty\/boost\/libs\/variant\/",
+    "7EEBD969BC7143D44CB5EA9B15DDA5AB4DCB79D0" : "cpp-sample\/thirdparty\/boost\/libs\/signals\/",
+    "09D5415EA814A7D782C6B2C4BF90D19FE02E0537" : "cpp-sample\/thirdparty\/boost\/libs\/tuple\/",
+    "181D076B268BFFE3E3BC9D72CB7C09E22A518BBC" : "cpp-sample\/thirdparty\/boost\/libs\/property_tree\/",
+    "3FB159986523EEFEB32F035598D407F8A82D47E2" : "cpp-sample\/thirdparty\/boost\/libs\/config\/",
+    "834BC5F6E115E53C75241EDBEC0D917DDBBB77E5" : "cpp-sample\/thirdparty\/boost\/libs\/dynamic_bitset\/",
+    "186E2971F8A8E83D27F3FA39ED941858F7613EA3" : "cpp-sample\/thirdparty\/boost\/libs\/graph_parallel\/",
+    "09EE96136A868C121573A1C37B05E9FE4FC63522" : "cpp-sample\/thirdparty\/asio\/",
+    "C41AF6F6590316A5053D6E6202D73AC435094329" : "cpp-sample\/thirdparty\/boost\/libs\/gil\/",
+    "5853DC01DF7C813BBB10C04DBF62CCD912BDC327" : "cpp-sample\/thirdparty\/boost\/libs\/vmd\/",
+    "3945A6B0E41B58889D935CF183AB0B5A9C1DECFF" : "cpp-sample\/thirdparty\/boost\/libs\/algorithm\/",
+    "8B8E72E4FC624FB1092C5BE9DFDDE9D7C7E7E2A3" : "cpp-sample\/thirdparty\/boost\/libs\/endian\/",
+    "277D8A1A64D874AA7442569B172AE0CB0AA91F7D" : "cpp-sample\/thirdparty\/boost\/tools\/boostbook\/",
+    "701821BC944CDBCC2CE2BBC316BF364EB91261A6" : "cpp-sample\/thirdparty\/boost\/libs\/functional\/",
+    "73CD312B38248A9CF3121FBA8D3D5AB9E76180E9" : "cpp-sample\/thirdparty\/boost\/libs\/mpl\/",
+    "606B77969CB8A3E74F666112ED6AAE8432EF2D67" : "cpp-sample\/thirdparty\/boost\/libs\/serialization\/",
+    "AB66EE092F328E45AF58911E332331EAADB95D28" : "cpp-sample\/thirdparty\/boost\/libs\/logic\/",
+    "2A9F1D4D2A714E315C95A201801AB79C9776BE6A" : "cpp-sample\/thirdparty\/boost\/libs\/date_time\/",
+    "AA4E32475131DC49C44B19D334F62E57BBA83A0D" : "cpp-sample\/thirdparty\/boost\/libs\/chrono\/",
+    "D430CFED4ACDE08C55B068579FC69C3628A27167" : "cpp-sample\/thirdparty\/boost\/libs\/assert\/",
+    "DE2C63CDC0F6AE1DFE5AF9844933CC34E392A95A" : "cpp-sample\/thirdparty\/boost\/libs\/io\/",
+    "41780AB478B5CE5DA4D966EBD68C17897602590F" : "cpp-sample\/thirdparty\/boost\/libs\/parameter\/",
+    "03FB0BC5908FB3268AF2A82E66F699004DC5419B" : "cpp-sample\/thirdparty\/boost\/tools\/litre\/",
+    "821A489FEDC0E8D3826C4106E5EF2533A8514002" : "cpp-sample\/thirdparty\/boost\/libs\/numeric\/interval\/",
+    "D0AF71776A4E01E34EED149EBC8437068C1D8C5B" : "cpp-sample\/thirdparty\/boost\/libs\/pool\/",
+    "EF4C4565A100C89E3429E93FB3F7EB9D6223088B" : "cpp-sample\/thirdparty\/boost\/libs\/interprocess\/",
+    "B4173435B41C0E21DE3F5A9BC593CA6A898D8FC3" : "cpp-sample\/thirdparty\/boost\/libs\/disjoint_sets\/",
+    "6A417B91D5DE199C7BF69BD657483370A1CE762D" : "cpp-sample\/thirdparty\/boost\/libs\/sort\/",
+    "F225D54C234BB26F7EB1355D4CF26DBBCD0DE769" : "cpp-sample\/thirdparty\/boost\/libs\/throw_exception\/",
+    "6E4D4EEC52A4A84E1F22763EA68618B602002AA7" : "cpp-sample\/thirdparty\/boost\/libs\/ptr_container\/",
+    "6B1D69DCE1AA7F35E8E772AC558852BCAFAB8C12" : "cpp-sample\/thirdparty\/boost\/libs\/test\/",
+    "EAB7E8849933D52CE83A814C3280551298877934" : "cpp-sample\/thirdparty\/boost\/libs\/log\/",
+    "5E3B914F37173C617A81AD32738CFE01D8ACD004" : "cpp-sample\/thirdparty\/boost\/libs\/bimap\/",
+    "0FBF8433F2041A1C676BD7B4F9C745B988F28D39" : "cpp-sample\/thirdparty\/boost\/libs\/function_types\/",
+    "5F67A7A192FEAF8FCF1300DCC08F5F8E755A4805" : "cpp-sample\/thirdparty\/boost\/libs\/mpi\/",
+    "1A81E7ECB7CB30064A65455F30E3BE17EB76B1C6" : "cpp-sample\/thirdparty\/boost\/libs\/flyweight\/",
+    "A11A7FB5F6897A7A10CADF81D597DF1A4AF952B9" : "cpp-sample\/thirdparty\/boost\/libs\/program_options\/",
+    "F0DA57FC769388E0E70159D7939575F2880E4EE0" : "cpp-sample\/thirdparty\/boost\/libs\/convert\/",
+    "B818F774B8405CD69A32CC90F815717C23612D0C" : "cpp-sample\/thirdparty\/boost\/libs\/exception\/",
+    "241379C19943DB413282CFF49E8FC9820B8FBF5F" : "cpp-sample\/thirdparty\/boost\/libs\/random\/",
+    "C3ED854564D96FE26F629AB47642C960C1E1F8C0" : "cpp-sample\/thirdparty\/boost\/libs\/move\/",
+    "7526B97E805297D8FA76D1B4A978BCFCF184A09C" : "cpp-sample\/thirdparty\/boost\/tools\/quickbook\/",
+    "1F1C903C00FEEC265E4B32B61585C30C8D8F0A6B" : "cpp-sample\/thirdparty\/boost\/libs\/coroutine2\/",
+    "745DCF46B77955D3E004325F1B6FF689D24CA7E3" : "cpp-sample\/thirdparty\/boost\/libs\/tr1\/",
+    "8AA5920AE2396737A458ECB14A4A1F310A7F378F" : "cpp-sample\/thirdparty\/boost\/libs\/hana\/",
+    "51C10229C3A3DCFB567EAD8EF0AD854D9C37CEB2" : "cpp-sample\/thirdparty\/boost\/libs\/iterator\/",
+    "039D73D997BDFEE385F90913AF51241B29C179E0" : "cpp-sample\/thirdparty\/boost\/libs\/array\/",
+    "32445AD4301685A4408C38B3F2C2057694F3CB32" : "cpp-sample\/thirdparty\/boost\/libs\/type_index\/",
+    "B9A02D1C9B3239B1B2E68DE4C473DB142E5E4DF3" : "cpp-sample\/thirdparty\/boost\/libs\/ratio\/",
+    "D48B96A7B497429EB299BD54974048EDCE487556" : "cpp-sample\/thirdparty\/boost\/libs\/integer\/",
+    "F39830CD5E0EA7EF922AF559C79C75F0484D8415" : "cpp-sample\/thirdparty\/boost\/libs\/container\/",
+    "8D40E74C65D7CCA407456A5B841E2FDF8957CE28" : "cpp-sample\/thirdparty\/boost\/libs\/bind\/",
+    "AF28E92F4C51A04BD0FEC78511B5809C5AF3CA99" : "cpp-sample\/thirdparty\/boost\/libs\/type_traits\/",
+    "5EB093D563FD2F54CE649F1CCC2821E6F200D103" : "cpp-sample\/thirdparty\/boost\/libs\/accumulators\/",
+    "B9F046F0BD9E9D264B496BA02A9944485963E7AB" : "cpp-sample\/thirdparty\/boost\/libs\/spirit\/",
+    "53E7937C4A3AFC3BC8DDF1F7A9872BAB638B3537" : "cpp-sample\/thirdparty\/boost\/libs\/numeric\/ublas\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "sample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "sample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/static_assert.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00C2692BCC962BB8F671576FF3C5C4ECBAE1E8CB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/build.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "029EF8DF15E09B0618C4494D981C9FB4247EA21C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/array.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "039D73D997BDFEE385F90913AF51241B29C179E0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/litre.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "03FB0BC5908FB3268AF2A82E66F699004DC5419B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/predef.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07C573BDCAD103C266A63A5B1A0F49499D98E5B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/bcp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0847F532C040666377BA5AE6A5C24F21436E1BFB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/tuple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09D5415EA814A7D782C6B2C4BF90D19FE02E0537"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scott-42\/asio",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09EE96136A868C121573A1C37B05E9FE4FC63522"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/function_types.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0FBF8433F2041A1C676BD7B4F9C745B988F28D39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/detail.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "13D510AF0C9ACBACCE87B855AB22BA4D5209E211"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/property_tree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "181D076B268BFFE3E3BC9D72CB7C09E22A518BBC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/graph_parallel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "186E2971F8A8E83D27F3FA39ED941858F7613EA3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/conversion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "196B46CF83E2FB818BF3DD9DDDCDE64F8695435A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/flyweight.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A81E7ECB7CB30064A65455F30E3BE17EB76B1C6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/filesystem.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1D4EDB91186A053FF9F321BF7D75D54C2A9947FF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/coroutine2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F1C903C00FEEC265E4B32B61585C30C8D8F0A6B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/random.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "241379C19943DB413282CFF49E8FC9820B8FBF5F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/lambda.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "25EA1765C03813F3E50847AB46EC39CD98B99D65"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/boostbook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "277D8A1A64D874AA7442569B172AE0CB0AA91F7D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/circular_buffer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2800DD802669CBE78548CCE0B95F1BEB861768EA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/winapi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "292E8266ACD752EB42919AC14FB29B2BF14E7BFA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/date_time.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A9F1D4D2A714E315C95A201801AB79C9776BE6A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/core.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30BB9BC394920DA3CAE553AD733DBAE6EC76E5C8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/any.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3234625D907476C438AA9422C4562F8828052B7C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/type_index.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32445AD4301685A4408C38B3F2C2057694F3CB32"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/crc.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "372E9ECA08929B4E0B07896D37AA7E2C0E400E6F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/algorithm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3945A6B0E41B58889D935CF183AB0B5A9C1DECFF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/asio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3B614CCC5D582F81785A2BA60334E42CBBC01BD1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/format.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F183742465A11DEF92385AD01C28C29538B455B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/config.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FB159986523EEFEB32F035598D407F8A82D47E2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/parameter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41780AB478B5CE5DA4D966EBD68C17897602590F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/preprocessor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "470F1FAA929827A56E1A0A600CFB43D797C02023"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/utility.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A2FEE8C7E79011772D086790D7AEF8FF07F7CD9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/regex.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D1AC43D5267535BB1BA83172247D547673723BB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/metaparse.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4F7B3776C2022A76E6C3ECB7645173444D6E9726"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/numeric_conversion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51B19613B226D090DB5FD3BE8A13FDFA6AC0EC7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/iterator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51C10229C3A3DCFB567EAD8EF0AD854D9C37CEB2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/ublas.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "53E7937C4A3AFC3BC8DDF1F7A9872BAB638B3537"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/vmd.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5853DC01DF7C813BBB10C04DBF62CCD912BDC327"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/compute.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "58592A48594D2C75E5275FC39E2A0FDCCF10DC8C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/foreach.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5AB805364E48A17F7C165520E37307D24D5D8A4C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/compatibility.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C34606C9894D2619F891F9C35436BA91E2735AD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/xpressive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C997F2451038944AAE6B1944D29B18E979B5EC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/system.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5CD3B571831A9F1F18AD27E5481761FAA31F73B3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/bimap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E3B914F37173C617A81AD32738CFE01D8ACD004"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/accumulators.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5EB093D563FD2F54CE649F1CCC2821E6F200D103"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/mpi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F67A7A192FEAF8FCF1300DCC08F5F8E755A4805"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/serialization.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "606B77969CB8A3E74F666112ED6AAE8432EF2D67"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/function.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "643EEC0821FB80D2CC4413B49494C31BFA54246B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/python.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65E3105F34BB65ACAE41A2134E6205775C141D4A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/qvm.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66E936BE76803FB416A73B030817439CBA874451"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/graph.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "681FF75D1391A3880A809E153021A373A69C3054"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/sort.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6A417B91D5DE199C7BF69BD657483370A1CE762D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6B1D69DCE1AA7F35E8E772AC558852BCAFAB8C12"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/ptr_container.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E4D4EEC52A4A84E1F22763EA68618B602002AA7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/functional.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "701821BC944CDBCC2CE2BBC316BF364EB91261A6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/optional.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "70EF06D3A91F12143111C86032BEC464D093FD54"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/mpl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "73CD312B38248A9CF3121FBA8D3D5AB9E76180E9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/tr1.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "745DCF46B77955D3E004325F1B6FF689D24CA7E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/quickbook.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7526B97E805297D8FA76D1B4A978BCFCF184A09C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scott-42\/googletest",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76A15575C5B740800EF8E92EA66B97A276AEF659"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/signals.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7EEBD969BC7143D44CB5EA9B15DDA5AB4DCB79D0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/context.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FF35C9C36613F38B5DFAA15070981D25B2488DC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/interval.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "821A489FEDC0E8D3826C4106E5EF2533A8514002"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/dynamic_bitset.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "834BC5F6E115E53C75241EDBEC0D917DDBBB77E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/tokenizer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86AD07E31958775295527B7116C4152BF846D7C0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scott-42\/cpp-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8871A6279EEA02ABBADC1D46664C8665045B8B94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/hana.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8AA5920AE2396737A458ECB14A4A1F310A7F378F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/endian.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B8E72E4FC624FB1092C5BE9DFDDE9D7C7E7E2A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/bind.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D40E74C65D7CCA407456A5B841E2FDF8957CE28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scott-42\/math",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F02240BDECC5106B2B80CEC4DB1B29D1BA96413"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/typeof.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99B3334B9CB9C7DE2F35F3CF33A34FE15A216C61"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/multi_index.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9CE3A993CF5FF665CD9CD4679B13B70585ED7F41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/inspect.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F967090EBAD6D00ABA7FA40537E236B351BC50E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/boostdep.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A0FA43D55A5CBC62B8AC562BDFC607BF9E268AF3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/program_options.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A11A7FB5F6897A7A10CADF81D597DF1A4AF952B9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/statechart.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A33692CC70C022105B47E8CE1A227957EB6D0A1F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/iostreams.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A692338916921B70DCE7D296F021A1432FAB6DE5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/chrono.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA4E32475131DC49C44B19D334F62E57BBA83A0D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/smart_ptr.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA61DE52AE9B003B707E31F8786CE387782270CA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/fusion.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AABAB4295EF7211EE16067F93030762E612D4CA2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/logic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB66EE092F328E45AF58911E332331EAADB95D28"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/timer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AB7DB1BDF2C977D7DAD7DCFEFAF8BECFDD2E29AF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/atomic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD253D9FA8339C77AD67CC2FC3D4EB1CDA68C048"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/type_traits.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF28E92F4C51A04BD0FEC78511B5809C5AF3CA99"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/disjoint_sets.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B4173435B41C0E21DE3F5A9BC593CA6A898D8FC3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/fiber.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5992855218E8CE3E5C519E82C5A3BB6837DE72E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/exception.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B818F774B8405CD69A32CC90F815717C23612D0C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/ratio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9A02D1C9B3239B1B2E68DE4C473DB142E5E4DF3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/spirit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B9F046F0BD9E9D264B496BA02A9944485963E7AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/multi_array.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BA9D9A67A8F3F74A2E3C0315EB9137099E35F2F5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/intrusive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C2EC63EDB01C9416EB48B09CC1B11510F462D155"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/move.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3ED854564D96FE26F629AB47642C960C1E1F8C0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/gil.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C41AF6F6590316A5053D6E6202D73AC435094329"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/geometry.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9AC9F247758C0C948915254736AD19E7439AB5E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/variant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9EA4176E658EE242E577638A903D46467C0511E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/dll.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C9F9A7EAD0E0239D958B77C6F92419F9A3B941C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/range.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CFA51411730CAE7D567070C8C60EB90AB96031AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/pool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0AF71776A4E01E34EED149EBC8437068C1D8C5B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/assert.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D430CFED4ACDE08C55B068579FC69C3628A27167"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/integer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D48B96A7B497429EB299BD54974048EDCE487556"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/io.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE2C63CDC0F6AE1DFE5AF9844933CC34E392A95A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/property_map.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3CF6ABE4F8C98076D21708E3C903B55D2521936"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/align.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E78FD7D31D3D21F66C05778FD9B8D414BB305C2F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/scott-42\/boost",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA3C9C8AD7707E808C13C99C1075BB94FE8822A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/log.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EAB7E8849933D52CE83A814C3280551298877934"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/assign.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ED4463EB630865F9FE9EE5254DECD50CEA90A0AE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/lockfree.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EDECC636117A7FEF6625B6B427175D5919D6E052"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/interprocess.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EF4C4565A100C89E3429E93FB3F7EB9D6223088B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/convert.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F0DA57FC769388E0E70159D7939575F2880E4EE0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/throw_exception.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F225D54C234BB26F7EB1355D4CF26DBBCD0DE769"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/wave.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F2D2C3179600F8E8AC538599A820B63DC96047FD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/container.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F39830CD5E0EA7EF922AF559C79C75F0484D8415"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/thread.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F61C8334FCA97314A8AA25185947555656A5C934"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/concept_check.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F93C1D486927773F07F47C1BFC589A8D01BDCC73"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/boostorg\/rational.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FB8318436B8B80894D21974D617B89CEF638F136"
+    }
+  ]
+}

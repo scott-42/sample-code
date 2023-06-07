@@ -1,0 +1,505 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D25FB61E1D2B7BE800092C47 /* libboost_coroutine.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D25FB61D1D2B7BE800092C47 /* libboost_coroutine.a */; };
+		D25FB6201D2B7C2900092C47 /* libboost_thread.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D25FB61F1D2B7C2900092C47 /* libboost_thread.a */; };
+		D25FB6221D2B7C4500092C47 /* libboost_system.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D25FB6211D2B7C4500092C47 /* libboost_system.a */; };
+		D25FB6241D2B7C7D00092C47 /* libboost_context.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D25FB6231D2B7C7D00092C47 /* libboost_context.a */; };
+		D2D9BC4A1D26F800004DB813 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC491D26F800004DB813 /* main.cpp */; };
+		D2D9BC551D26F81A004DB813 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC541D26F81A004DB813 /* main.cpp */; };
+		D2D9BC601D26F82A004DB813 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC5F1D26F82A004DB813 /* main.cpp */; };
+		D2D9BC811D26FAEB004DB813 /* prime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC7F1D26FAEB004DB813 /* prime.cpp */; };
+		D2D9BC841D26FB68004DB813 /* primeTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC831D26FB68004DB813 /* primeTest.cpp */; };
+		D2D9BC851D28234A004DB813 /* prime.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2D9BC7F1D26FAEB004DB813 /* prime.cpp */; };
+		D2D9BC871D282794004DB813 /* libgtest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D2D9BC861D282794004DB813 /* libgtest.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		D2D9BC451D26F800004DB813 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D2D9BC501D26F81A004DB813 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		D2D9BC5B1D26F82A004DB813 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		D25FB61D1D2B7BE800092C47 /* libboost_coroutine.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libboost_coroutine.a; path = "thirdparty/boost/bin.v2/libs/coroutine/build/darwin-4.2.1/release/link-static/threading-multi/libboost_coroutine.a"; sourceTree = SOURCE_ROOT; };
+		D25FB61F1D2B7C2900092C47 /* libboost_thread.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libboost_thread.a; path = "thirdparty/boost/bin.v2/libs/thread/build/darwin-4.2.1/release/link-static/threading-multi/libboost_thread.a"; sourceTree = SOURCE_ROOT; };
+		D25FB6211D2B7C4500092C47 /* libboost_system.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libboost_system.a; path = "thirdparty/boost/bin.v2/libs/system/build/darwin-4.2.1/release/link-static/threading-multi/libboost_system.a"; sourceTree = SOURCE_ROOT; };
+		D25FB6231D2B7C7D00092C47 /* libboost_context.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libboost_context.a; path = "thirdparty/boost/bin.v2/libs/context/build/darwin-4.2.1/release/link-static/threading-multi/libboost_context.a"; sourceTree = SOURCE_ROOT; };
+		D25FB6251D2B87BB00092C47 /* special_functions_prime.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = special_functions_prime.h; sourceTree = "<group>"; };
+		D2D9BC411D25DC93004DB813 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D2D9BC421D25E5D4004DB813 /* thirdparty */ = {isa = PBXFileReference; lastKnownFileType = folder; path = thirdparty; sourceTree = "<group>"; };
+		D2D9BC471D26F800004DB813 /* server */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = server; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2D9BC491D26F800004DB813 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D2D9BC521D26F81A004DB813 /* client */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = client; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2D9BC541D26F81A004DB813 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D2D9BC5D1D26F82A004DB813 /* testRunner */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = testRunner; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2D9BC5F1D26F82A004DB813 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D2D9BC7F1D26FAEB004DB813 /* prime.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = prime.cpp; sourceTree = "<group>"; };
+		D2D9BC801D26FAEB004DB813 /* prime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = prime.h; sourceTree = "<group>"; };
+		D2D9BC821D26FB2B004DB813 /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
+		D2D9BC831D26FB68004DB813 /* primeTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = primeTest.cpp; sourceTree = "<group>"; };
+		D2D9BC861D282794004DB813 /* libgtest.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libgtest.a; path = ../thirdparty/googletest/build/googlemock/gtest/libgtest.a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2D9BC441D26F800004DB813 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D25FB6221D2B7C4500092C47 /* libboost_system.a in Frameworks */,
+				D25FB61E1D2B7BE800092C47 /* libboost_coroutine.a in Frameworks */,
+				D25FB6201D2B7C2900092C47 /* libboost_thread.a in Frameworks */,
+				D25FB6241D2B7C7D00092C47 /* libboost_context.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2D9BC4F1D26F81A004DB813 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2D9BC5A1D26F82A004DB813 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2D9BC871D282794004DB813 /* libgtest.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D2D9BC2E1D25DBC8004DB813 = {
+			isa = PBXGroup;
+			children = (
+				D2D9BC411D25DC93004DB813 /* README.md */,
+				D2D9BC821D26FB2B004DB813 /* config.h */,
+				D2D9BC481D26F800004DB813 /* server */,
+				D2D9BC531D26F81A004DB813 /* client */,
+				D2D9BC5E1D26F82A004DB813 /* testRunner */,
+				D2D9BC421D25E5D4004DB813 /* thirdparty */,
+				D2D9BC381D25DBC8004DB813 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D2D9BC381D25DBC8004DB813 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2D9BC471D26F800004DB813 /* server */,
+				D2D9BC521D26F81A004DB813 /* client */,
+				D2D9BC5D1D26F82A004DB813 /* testRunner */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D2D9BC481D26F800004DB813 /* server */ = {
+			isa = PBXGroup;
+			children = (
+				D2D9BC491D26F800004DB813 /* main.cpp */,
+				D2D9BC801D26FAEB004DB813 /* prime.h */,
+				D2D9BC7F1D26FAEB004DB813 /* prime.cpp */,
+				D25FB6251D2B87BB00092C47 /* special_functions_prime.h */,
+				D25FB61D1D2B7BE800092C47 /* libboost_coroutine.a */,
+				D25FB61F1D2B7C2900092C47 /* libboost_thread.a */,
+				D25FB6211D2B7C4500092C47 /* libboost_system.a */,
+				D25FB6231D2B7C7D00092C47 /* libboost_context.a */,
+			);
+			path = server;
+			sourceTree = "<group>";
+		};
+		D2D9BC531D26F81A004DB813 /* client */ = {
+			isa = PBXGroup;
+			children = (
+				D2D9BC541D26F81A004DB813 /* main.cpp */,
+			);
+			path = client;
+			sourceTree = "<group>";
+		};
+		D2D9BC5E1D26F82A004DB813 /* testRunner */ = {
+			isa = PBXGroup;
+			children = (
+				D2D9BC5F1D26F82A004DB813 /* main.cpp */,
+				D2D9BC831D26FB68004DB813 /* primeTest.cpp */,
+				D2D9BC861D282794004DB813 /* libgtest.a */,
+			);
+			path = testRunner;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D2D9BC461D26F800004DB813 /* server */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D2D9BC4D1D26F800004DB813 /* Build configuration list for PBXNativeTarget "server" */;
+			buildPhases = (
+				D2D9BC431D26F800004DB813 /* Sources */,
+				D2D9BC441D26F800004DB813 /* Frameworks */,
+				D2D9BC451D26F800004DB813 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = server;
+			productName = server;
+			productReference = D2D9BC471D26F800004DB813 /* server */;
+			productType = "com.apple.product-type.tool";
+		};
+		D2D9BC511D26F81A004DB813 /* client */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D2D9BC561D26F81A004DB813 /* Build configuration list for PBXNativeTarget "client" */;
+			buildPhases = (
+				D2D9BC4E1D26F81A004DB813 /* Sources */,
+				D2D9BC4F1D26F81A004DB813 /* Frameworks */,
+				D2D9BC501D26F81A004DB813 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = client;
+			productName = client;
+			productReference = D2D9BC521D26F81A004DB813 /* client */;
+			productType = "com.apple.product-type.tool";
+		};
+		D2D9BC5C1D26F82A004DB813 /* testRunner */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D2D9BC611D26F82A004DB813 /* Build configuration list for PBXNativeTarget "testRunner" */;
+			buildPhases = (
+				D2D9BC591D26F82A004DB813 /* Sources */,
+				D2D9BC5A1D26F82A004DB813 /* Frameworks */,
+				D2D9BC5B1D26F82A004DB813 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = testRunner;
+			productName = testRunner;
+			productReference = D2D9BC5D1D26F82A004DB813 /* testRunner */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D2D9BC2F1D25DBC8004DB813 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Garlic Software LLC";
+				TargetAttributes = {
+					D2D9BC461D26F800004DB813 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					D2D9BC511D26F81A004DB813 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					D2D9BC5C1D26F82A004DB813 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = D2D9BC321D25DBC8004DB813 /* Build configuration list for PBXProject "sample" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D2D9BC2E1D25DBC8004DB813;
+			productRefGroup = D2D9BC381D25DBC8004DB813 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2D9BC461D26F800004DB813 /* server */,
+				D2D9BC511D26F81A004DB813 /* client */,
+				D2D9BC5C1D26F82A004DB813 /* testRunner */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2D9BC431D26F800004DB813 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2D9BC4A1D26F800004DB813 /* main.cpp in Sources */,
+				D2D9BC811D26FAEB004DB813 /* prime.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2D9BC4E1D26F81A004DB813 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2D9BC551D26F81A004DB813 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D2D9BC591D26F82A004DB813 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D2D9BC601D26F82A004DB813 /* main.cpp in Sources */,
+				D2D9BC841D26FB68004DB813 /* primeTest.cpp in Sources */,
+				D2D9BC851D28234A004DB813 /* prime.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D2D9BC3C1D25DBC8004DB813 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D2D9BC3D1D25DBC8004DB813 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D2D9BC4B1D26F800004DB813 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+					thirdparty/boost,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/coroutine/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/thread/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/system/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/context/build/darwin-4.2.1/release/link-static/threading-multi",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D2D9BC4C1D26F800004DB813 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+					thirdparty/boost,
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/coroutine/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/thread/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/system/build/darwin-4.2.1/release/link-static/threading-multi",
+					"$(PROJECT_DIR)/thirdparty/boost/bin.v2/libs/context/build/darwin-4.2.1/release/link-static/threading-multi",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		D2D9BC571D26F81A004DB813 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D2D9BC581D26F81A004DB813 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		D2D9BC621D26F82A004DB813 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+					"thirdparty/googletest/googletest/include/**",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/thirdparty/googletest/build/googlemock/gtest",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D2D9BC631D26F82A004DB813 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				HEADER_SEARCH_PATHS = (
+					"thirdparty/asio/asio/include/**",
+					"thirdparty/math/include/**",
+					"thirdparty/googletest/googletest/include/**",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/thirdparty/googletest/build/googlemock/gtest",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D2D9BC321D25DBC8004DB813 /* Build configuration list for PBXProject "sample" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2D9BC3C1D25DBC8004DB813 /* Debug */,
+				D2D9BC3D1D25DBC8004DB813 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D2D9BC4D1D26F800004DB813 /* Build configuration list for PBXNativeTarget "server" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2D9BC4B1D26F800004DB813 /* Debug */,
+				D2D9BC4C1D26F800004DB813 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D2D9BC561D26F81A004DB813 /* Build configuration list for PBXNativeTarget "client" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2D9BC571D26F81A004DB813 /* Debug */,
+				D2D9BC581D26F81A004DB813 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D2D9BC611D26F82A004DB813 /* Build configuration list for PBXNativeTarget "testRunner" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D2D9BC621D26F82A004DB813 /* Debug */,
+				D2D9BC631D26F82A004DB813 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D2D9BC2F1D25DBC8004DB813 /* Project object */;
+}
