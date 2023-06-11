@@ -9,7 +9,7 @@ transformations between them are described in
 [Datum Transformations of GPS Positions.PDF](https://microem.ru/files/2012/08/GPS.G1-X-00006.pdf) 
 Application Note, July 5, 1999, μ-blox ag (http://www.u-blox.ch).
 
-In the package accompanying this document, the file `code_problem data.csv`
+In the package accompanying this document, the file `code_problem_data.csv`
 contains data representing a time series of an object using LLA coordinates. It is your
 task to write a program that returns the ECEF velocity vector of the object at any
 requested time.
@@ -66,15 +66,16 @@ googetest framework and is not extensive. Some rudimentary tests were included t
 show capability, not to exhaustively test the code.
 
 ```
-% ./scitec-sample-test
-[==========] Running 7 tests from 4 test suites.
+% ./sample-test
+Running main() from gtest_main.cc
+[==========] Running 7 tests from 4 test cases.
 [----------] Global test environment set-up.
 [----------] 2 tests from csv
 [ RUN      ] csv.csv
-[       OK ] csv.csv (1 ms)
+[       OK ] csv.csv (0 ms)
 [ RUN      ] csv.split
-[       OK ] csv.split (1 ms)
-[----------] 2 tests from csv (2 ms total)
+[       OK ] csv.split (0 ms)
+[----------] 2 tests from csv (0 ms total)
 
 [----------] 1 test from coord
 [ RUN      ] coord.coord
@@ -96,12 +97,12 @@ show capability, not to exhaustively test the code.
 [----------] 2 tests from coordLLA (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 7 tests from 4 test suites ran. (2 ms total)
+[==========] 7 tests from 4 test cases ran. (0 ms total)
 [  PASSED  ] 7 tests.
 ```
 
 ```
-% ./scitec-sample
+% ./sample
 Time: 1532334000 Velocity: 1389.526667224982
 Time: 1532335268 Velocity: 3891.3052647121899
 ```
