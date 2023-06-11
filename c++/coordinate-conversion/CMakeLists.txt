@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 option(BUILD_GMOCK "" OFF)
 option(INSTALL_GTEST "" OFF)
-add_subdirectory("${CMAKE_SOURCE_DIR}/thirdparty/googletest"
+add_subdirectory("${CMAKE_SOURCE_DIR}/../../thirdparty/googletest/googletest"
                  "${CMAKE_BINARY_DIR}/lib"
 )
 
