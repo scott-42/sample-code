@@ -34,14 +34,14 @@ If you have cppunit installed,
 $ apt search libcppunit
 Sorting... Done
 Full Text Search... Done
-libcppunit-1.13-0v5/xenial,now 1.13.2-2.1 amd64 [installed]
+libcppunit-1.15-0/jammy,now 1.15.1-4 amd64 [installed]
   Unit Testing Library for C++
 
-libcppunit-dev/xenial,now 1.13.2-2.1 amd64 [installed]
-  Unit Testing Library for C++
+libcppunit-dev/jammy,now 1.15.1-4 amd64 [installed]
+  Unit Testing Library for C++ - development library
 
-libcppunit-doc/xenial,xenial,now 1.13.2-2.1 all [installed]
-  Unit Testing Library for C++
+libcppunit-doc/jammy,jammy,now 1.15.1-4 all [installed]
+  Unit Testing Library for C++ - documentation
 ```
 then you can run the test suite by
 ```
@@ -61,8 +61,8 @@ number		minutes
 OK (4)
 ```
 ## Notes
-Compiled and run under Ubuntu 16.04 with gcc and cppunit
+Compiled and run under Ubuntu 22.04 with gcc and cppunit
 ```
 $ gcc --version
-gcc (Ubuntu 5.4.0-6ubuntu1~16.04.9) 5.4.0 20160609
+gcc (Ubuntu 11.3.0-1ubuntu1~22.04.1) 11.3.0
 ```
