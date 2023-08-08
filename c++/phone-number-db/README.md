@@ -15,8 +15,13 @@ Function-1 see `database::addRecord(unsigned long number, unsigned short minutes
 
 Function-2 see `database::printTopBusy(unsigned int N)`
 ## Building
+### Dev Container Version
+If you have Microsoft Visual Code and Docker then the DevContainer version is fully self-contained and the build is very simple. Just open a terminal in Code and use the command line build below.
+### Command Line
 ```
-$ make clean
+$ mkdir build
+$ cd build
+$ cmake ..
 $ make
 $ sample 5
 number		minutes
@@ -29,7 +34,7 @@ number		minutes
 The program takes one argument as a number and prints out the number of entries. There is no real formatting of the output as it just uses a tab to delimit the text. If you don't provide a number it uses the default of 10.
 
 ## Testing
-If you have cppunit installed,
+If you have libcppunit-dev installed,
 ```
 $ apt search libcppunit
 Sorting... Done
@@ -43,10 +48,10 @@ libcppunit-dev/jammy,now 1.15.1-4 amd64 [installed]
 libcppunit-doc/jammy,jammy,now 1.15.1-4 all [installed]
   Unit Testing Library for C++ - documentation
 ```
-then you can run the test suite by
+then you can run the test suite by the steps below. If you used make after the cmake above, then the sample-test app is already built and you don't have to do anything other than run it.
 ```
 $ make clean
-$ make test
+$ make sample-test
 $ sample-test 5
 phoneNumber_test::testConstructors : OK
 phoneNumber_test::testSettersAndGetters : OK
