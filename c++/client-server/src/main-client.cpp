@@ -13,8 +13,8 @@
 #define ASIO_STANDALONE
 
 #include <iostream>
-#include "asio.hpp"
-#include "config.h"
+#include <boost/asio.hpp>
+#include "../config.h"
 
 using asio::ip::tcp;
 
