@@ -3,3 +3,4 @@ c++/coordinate-conversion/build/
 c++/state-machines/build/
 c++/client-server/build/
 c++/client-server/.vscode/
+.vscode/
