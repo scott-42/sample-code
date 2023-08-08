@@ -14,9 +14,9 @@
 
 #include <iostream>
 #include <boost/asio.hpp>
-#include "../config.h"
+#include "config.h"
 
-using asio::ip::tcp;
+using boost::asio::ip::tcp;
 
 int main(int argc, char* argv[]) {
 	try {
@@ -25,17 +25,17 @@ int main(int argc, char* argv[]) {
 			return 1;
 		}
 		
-		asio::io_service io_service;
+		boost::asio::io_service io_service;
 		
 		tcp::socket s(io_service);
 		tcp::resolver resolver(io_service);
-		asio::connect(s, resolver.resolve({argv[1], port_number.c_str()}));
+		boost::asio::connect(s, resolver.resolve({argv[1], port_number.c_str()}));
 		
 		size_t request_length = std::strlen(argv[2]);
-		asio::write(s, asio::buffer(argv[2], request_length));
+		boost::asio::write(s, boost::asio::buffer(argv[2], request_length));
 		
 		char reply[1];
-		size_t reply_length = asio::read(s, asio::buffer(reply, 1));
+		size_t reply_length = boost::asio::read(s, boost::asio::buffer(reply, 1));
 		std::cout.write(reply, reply_length);
 		std::cout << std::endl;
 	}
