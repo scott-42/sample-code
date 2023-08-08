@@ -1,9 +1,6 @@
 [submodule "thirdparty/asio"]
 	path = thirdparty/asio
 	url = https://github.com/scott-42/asio
-[submodule "thirdparty/googletest"]
-	path = thirdparty/googletest
-	url = https://github.com/scott-42/googletest
 [submodule "thirdparty/math"]
 	path = thirdparty/math
 	url = https://github.com/scott-42/math

@@ -6,15 +6,12 @@ project(sample)
 
 set(CMAKE_CXX_STANDARD 14)
 
-option(BUILD_GMOCK "" OFF)
-option(INSTALL_GTEST "" OFF)
-add_subdirectory("${CMAKE_SOURCE_DIR}/../../thirdparty/googletest/googletest"
-                 "${CMAKE_BINARY_DIR}/lib"
-)
+set(SOURCES ${CMAKE_SOURCE_DIR}/src/csv.cpp 
+	${CMAKE_SOURCE_DIR}/src/csv.h 
+	${CMAKE_SOURCE_DIR}/src/coord.h 
+	${CMAKE_SOURCE_DIR}/src/coord.cpp)
 
-set(SOURCES csv.cpp csv.h coord.h coord.cpp)
-
-add_executable (sample main.cpp ${SOURCES})
+add_executable (sample ${CMAKE_SOURCE_DIR}/src/main.cpp ${SOURCES})
 add_executable (sample-test ${SOURCES})
 
 target_compile_options(sample-test PRIVATE -DTESTING)

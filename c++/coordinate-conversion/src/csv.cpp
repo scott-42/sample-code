@@ -8,7 +8,7 @@
 
 csv::csv(void) {
     // load in the default data
-    const static std::string fileName{"code_problem_data.csv"};
+    const static std::string fileName{"../code_problem_data.csv"};
 
     std::ifstream file;
     file.open(fileName);
