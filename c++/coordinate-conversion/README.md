@@ -57,7 +57,9 @@ To build on a linux machine with cmake, make, and gcc you should only need to
 run cmake which will generate the Makefile, then run make.
 
 ```
-% cmake .
+% mkdir build
+% cd build
+% cmake ..
 % make
 ```
 
