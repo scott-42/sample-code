@@ -12,10 +12,6 @@ start again at 1.)  The output should be formatted as: "x, y, <time>", where <ti
 can have any format provided that it has at least millisecond resolution.  The x and 
 y coordinates can be any format you choose.
 
-## Solution
-Function-1 see `database::addRecord(unsigned long number, unsigned short minutes)`
-
-Function-2 see `database::printTopBusy(unsigned int N)`
 ## Building
 ### Dev Container Version
 If you have Microsoft Visual Code and Docker then the DevContainer version is fully self-contained and the build is very simple. Just open a terminal in Code and use the command line build below.
