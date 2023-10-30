@@ -3,7 +3,8 @@
  *
  *  Created on: Jun 13, 2018
  *      Author: scott
- */
+ * Copyright © 2018 R. Scott Gustafson. All rights reserved.
+*/
 
 #ifndef PHONENUMBER_H_
 #define PHONENUMBER_H_

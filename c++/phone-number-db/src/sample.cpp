@@ -3,7 +3,8 @@
  *
  *  Created on: Jun 13, 2018
  *      Author: scott
- */
+ * Copyright © 2018 R. Scott Gustafson. All rights reserved.
+*/
 
 #include <iostream>
 #include <random>

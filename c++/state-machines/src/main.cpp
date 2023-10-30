@@ -1,3 +1,5 @@
+// Copyright 2011 Garlic Software LLC. All rights reserved.
+
 #include <iostream>
 #include "timeMachine.h"
 #include "angleMachine.h"
